@@ -3,9 +3,13 @@
 Clone App
 
 ```bash
-git clone https://github.com/firmansyf/pokedex-app.git
+git clone https://github.com/firmansyf/dot-pokemon-app.git
+```
 
-next > yarn install or npm install 
+Install App 
+
+```bash
+npm install or yarn install
 ```
 
 Running Project

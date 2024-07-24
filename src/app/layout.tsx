@@ -22,7 +22,7 @@ const AuthChecker = ({ children }: { children: React.ReactNode }) => {
   const { isAuthenticated, loading } = useGlobalContext();
 
   useEffect(() => {
-    if (!loading && !isAuthenticated && router.pathname !== '/login') {
+    if (!loading && !isAuthenticated) {
       router.push('/login');
     }
   }, [loading, isAuthenticated, router]);

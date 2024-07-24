@@ -1,5 +1,7 @@
 ## Getting Started
 
+Deployed : https://dot-pokemon.netlify.app/
+
 Clone App
 
 ```bash

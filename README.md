@@ -13,3 +13,19 @@ Running Project
 ```bash
 npm run dev or yarn run dev
 ```
+
+Feature
+
+- Login
+- Search
+- Sort
+- Filter
+- Detail
+- Logout
+
+Credentials login
+
+```bash
+username : yusuf firmansyah
+password : 12345
+```
